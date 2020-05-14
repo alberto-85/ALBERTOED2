@@ -1,0 +1,10 @@
+public class prueba{
+
+	public static void/String[] args){
+
+
+		System.out.println("Rama principal");
+
+	}
+
+}
